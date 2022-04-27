@@ -1,4 +1,4 @@
-pais,lectura_6,matematicas_6,ciencias_6,lectura_3,matematicas_3,concentracion_10,gasto_educacion_total_gasto,gasto_primaria_total_gasto_educ,_gasto_primaria_PIB,tasa_alfabetizacion
+pais,lectura_6,matematicas_6,ciencias_6,lectura_3,matematicas_3,concentracion_10,gasto_educacion_total,gasto_primaria_total,gasto_primaria_PIB,tasa_alfabetizacion
 ar,697.64,689.74,681.81,688.51,689.73,0.31,0.133,0.3,0.15,0.99
 bo,,,,,,0.31,,,,
 br,734.44,732.98,718.46,747.75,743.78,0.42,0.165,0.26,0.201,0.93
