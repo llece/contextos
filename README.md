@@ -2,7 +2,7 @@
 
 ### ERCE es la cuarta versión de nuestro Estudio Regional Comparativo y Explicativo, realizado en 2019 bajo la coordinación del Laboratorio Latinoamericano de Evaluación de la Calidad de la Educación (LLECE), el cual forma parte de la Oficina Regional de Educación para América Latina y el Caribe (OREALC/UNESCO Santiago). 
 
-Los archivos CSV disponibles en esta carpeta corresponden a una selección de datos contextuales, comparados con respecto a los resultados de desempeño ERCE 2019, utilizados para su visualización en el portal de datos [llecesunesco.org](www.lleceunesco.org). 
+Los archivos CSV disponibles en esta carpeta corresponden a una selección de datos contextuales, comparados con respecto a los resultados de desempeño ERCE 2019, utilizados para su visualización en el portal de datos [llecesunesco.org](www.unescollece.org). 
 
 **Fuentes de los datos**
 
@@ -51,4 +51,4 @@ Los archivos CSV disponibles en esta carpeta corresponden a una selección de da
 [UIS Unesco (2018)](https://data.worldbank.org/indicator/SE.XPD.PRIM.PC.ZS)
 
 
-Para mayor información, consulte la [documentación disponible para ERCE 2019](https://es.unesco.org/fieldoffice/santiago/llece/ERCE2019) o [contacte al equipo LLECE.](https://lleceunesco.org/sobre-llece/)
+Para mayor información, consulte la [documentación disponible para ERCE 2019](https://es.unesco.org/fieldoffice/santiago/llece/ERCE2019) o [contacte al equipo LLECE.](https://unescollece.org/sobre-llece/)
